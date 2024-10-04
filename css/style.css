@@ -1,5 +1,11 @@
-img{
+img {
     width: 30%;
     margin: auto;
     display: block;
+}
+
+#textoEng {
+    color: #f42167;
+    font-size: 24px;
+    font-weight: bold;
 }
