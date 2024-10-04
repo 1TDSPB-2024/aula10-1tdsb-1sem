@@ -4,3 +4,10 @@ img{
     margin:auto;
     display: block;
 }
+
+/* referenciar um id*/
+#textoEng{
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+}
