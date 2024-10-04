@@ -1,0 +1,9 @@
+
+/*ajustar largura da imagem
+manipular linha transfroar em bloco
+*/
+img{
+    width: 30%;
+    margin: auto;
+    display: block;
+}
