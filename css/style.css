@@ -3,3 +3,8 @@ img{
     margin:auto;
     display: block;
 }
+#textoEng{
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+}
